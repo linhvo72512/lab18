@@ -1,0 +1,26 @@
+
+.carousel-inner{
+    margin-top: 50px;
+}
+p,h1{
+    color: whitesmoke;
+}
+.bg-img1 { 
+    background-color: #000;
+    background-size: cover;
+    background-image: url("Moon2.jpg");
+    height: 500px;
+}
+
+.bg-img2 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url("Moon2.jpg");
+    
+}
+
+.bg-img3 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url("imageMoon.jpg");
+}
